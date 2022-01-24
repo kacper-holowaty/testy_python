@@ -1,4 +1,4 @@
-import testy_python from funkcje
+import funkcja
 
 
 def test_sortowanie():

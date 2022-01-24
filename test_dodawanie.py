@@ -1,4 +1,4 @@
-import testy_python from dodawanie
+import dodawanie
 
 def test_dodawanie():
 	a = 14
