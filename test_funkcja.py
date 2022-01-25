@@ -1,7 +1,7 @@
-import funkcja
+import funkcja as cdb
 
 
 def test_sortowanie():
 	owoce=['jabłko','gruszka','śliwka','banan','wiśnia','arbuz','brzoskwinia','malina','granat']
-	assert (sortowanie(owoce) == sorted(owoce))
+	assert (cdb.sortowanie(owoce) == sorted(owoce))
 
